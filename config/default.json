@@ -1,5 +1,6 @@
 {
-  "mongoURI": "mongodb://127.0.0.1:27017/test",
+  // "mongoURI": "mongodb://127.0.0.1:27017/test",
+  "mongoURI": "mongodb+srv://no2:1234@devconnector-3ngre.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "myno2Scret",
   "githubClientId": "6558bb23f0a8e5a184d6",
   "githubSecret": "d7d6051b509eb2e396308cd76fdff3ea6a8fde3e"
